@@ -7,3 +7,5 @@ Processors to support:
 | 1 | AMD Xilinx Zynq UltraScale+ |
 | 2 | AMD V2000                   |
 | 3 | RP2350                      |
+| 4 | STM32G491RET6               |
+| 5 | STM32H75XXXXX - TBD         |
